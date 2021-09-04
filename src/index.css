@@ -29,3 +29,13 @@ body {
   background-color: #2b2d42;
   color: white;
 }
+
+footer{
+  background-color: #8d99ae;
+  padding: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: #2b2d42;
+}
