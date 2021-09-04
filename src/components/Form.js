@@ -123,7 +123,7 @@ const Form = ({ createCheck }) => {
                 value={symptoms}
               ></textarea>
             </div>
-            <button className="btn mx-auto d-grid gap-2 col-6" type="submit">
+            <button className="btn btn-form mx-auto d-grid gap-2 col-6" type="submit">
               Ingresar
             </button>
           </form>
