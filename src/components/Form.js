@@ -35,7 +35,6 @@ const Form = () => {
                 </div>
               </div>
             </div>
-
             <div className="form-group">
               <label className="mt-2">Nombre Dueño</label>
               <textarea className="form-control mb-2"></textarea>
